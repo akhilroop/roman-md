@@ -1,114 +1,180 @@
-<p align="center"> 
-<b>༺═════════[👸❤️]══════════༻</b>
-</p>
-<p align="center"> 
-<img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
-</p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Queen+Nilu+Whatsapp+Multidevice+Bot+;Created+By+Janiya" alt="">
-</p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Janithsadanuwan?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/QueenNilu?color=white&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Janithsadanuwan/QueenNilu?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Janithsadanuwan/QueenNilu?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/QueenNilu/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+ROMAN-MD;Multi+Device+Whatsapp+Bot;Coded+By+AKHILROOP" alt="Typing SVG" /></a>
+
+ 
+
+ <p align="center">
+
+<a href="https://github.com/akhilroop/ROMAN-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=ROMAN-MD BOT&description=Hello,%20I%20am%20Roman%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/SXLzJTW/Ephoto360-com-162fee77eaf94d.png&backgroundColor=%23ecf0f1&instagram=@ignt_akhilroop&github=akhilroop&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+
 </p>
 
-## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
+ 
 
-# 
+ 
 
-<b>Version --> 1.1.0</b>
-# 
-Queen Nilu whatsapp bot is,
-A very good bot that you can use in whatsapp.
+ 
 
-## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/QueenNilu/fork)
+ <p align="center">
 
+  <a href="https://github.com/akhilroop"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 
-# 
-
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-NILU.janithsadanuwan.repl.co)
-
-
-
-  if there any error please infrom it support group ✨
-# 
-
-[`Deploy on Railway`](https://railway.app?referralCode=FnnJ_C)
-
-[`Deploy on Koyeb`](https://app.koyeb.com/)
-
-[`Deploy on Mogenius`](https://studio.mogenius.com/)
-
-[`Deploy on Heroku`](https://heroku.com/deploy?template=)
-
-[`Deploy on uffizzi`](https://www.uffizzi.com/)
-
-[`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/QueenNilu)
-
-
-* 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
-       
-          https://heroku.com/deploy?template=
-
-
-## [`WATCH YOUTUBE VIDEO`](https://youtu.be/4jnKUto3i3c)
-
-+ DEPLOY STEPS
-# 
-1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode session.json file
-4. Make acount on railway , heroku , mogenius or koyeb 
-5. Connect Your Repository to your web host site
-6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
-# 
-# How to Update Bot 
-
-<p align="left">
-<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
 </p>
 
-  RAILWAY & KOYEB USERS :
+ ![forks](https://img.shields.io/github/forks/akhilroop/Queen-MD?label=Forks&style=social)
 
-01. Visit to your GitHub and open your Queen Nilu fork repo.
-02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
-03. Then, you will see green colour button as "Update branch". Click it.
-04. Now, automatically bot will update.
+![stars](https://img.shields.io/github/stars/akhilroop/Queen-MD?style=social)
 
-  LOCAL OR VPS USERS :  
-01. Visit to your GitHub and open your Queen Nilu fork repo.
-02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
-03. Then, you will see green colour button as "Update branch". Click it.
-04. Open command prompt and command git clone your_fork_url
-05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
-   
-   
+![size](https://img.shields.io/github/repo-size/akhilroop/Queen-MD?color=purple&label=Repo%20Size&style=plastic)
 
-01. Visit to your GitHub and open your Queen  Nilu fork repo.
-02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
-03. Then, you will see green colour button as "Update branch". Click it.
-04. Connect to VPS and command git clone your_fork_url
-05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
-# 
-# 
+![license](https://img.shields.io/github/license/akhilroop/Queen-MD?color=purple&label=License&style=plastic)
 
-THANAKS FOR USNING QUEEN nilu💃💖
+![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
 
-[🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
+ 
 
-[💃 Join Public Group 💃](https://chat.whatsapp.com/)
+ <p align="center"><img src="https://profile-counter.glitch.me/{akhilroop}/count.svg" alt="Akhilroop :: Visitor's Count" /></p>
 
+ 
 
+ 
 
-<h1>💃💖</h1> 
-<b>Thanks For</b> -
+---
 
-[QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
+# Deployment Methods
+
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
+
+---
+
+## Click Here To Deploy
+
+<a href="https://queen-md-deploy.vercel.app/"><img src="https://www.clipartmax.com/png/full/135-1353963_click-here-button-free-click-here-button-png.png" alt="pngwing-com" width="350" border="0"></a>
+
+---
+
+**Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
+
+ 
+
+<a href="https://queen-qr.darkwinso.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
+
+ 
+
+ 
+
+# CLICK FORK TO REPO
+
+<a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
+
+-- 
+
+###  ***Deploy on replit*** 
+
+ 
+
+<a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
+
+--
+
+ 
+
+### ***Deploy on Heroku***
+
+<a href="https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen-MD "><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
+
+---
+
+ 
+
+ ### ***Deploy on MOGENIOUS***
+
+ 
+
+ <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ＤａｒｋＷｉｎｚｏ" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
+
+--
+
+  
+
+  ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+
+apt update && apt upgrade
+
+apt install git -y
+
+apt install nodejs -y
+
+apt install ffmpeg -y
+
+git clone https://github.com/DarkWinzo/Queen-MD
+
+cd Queen-MD
+
+npm install
+
+npm i pm2
+
+pm2 start index.js && pm2 save && pm2 logs
+
+```
+
+## ⚠️ RECOMMENDED INSTALL ON TERMUX
+
+```bash
+
+pkg install yarn
+
+yarn
+
+```
+
+## Join Support Group :
+
+<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="300" border="0"></a>
+
+-- 
+
+### **Star ⭐ repo if you like Roman-MD.**
+
+## ❗ Warning
+
+ ```You Can't Modify This Roman-MD Bot```
+
+ 
+
+ ## DEVELOPER TEAM :
+
+ 
+
+  <div align="center">
+
+  
+
+| [![DarkWinzo](https://github.com/Roman.png?size=200)](https://github.com/DarkWinzo) | [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) | [![DarkWinzo](https://github.com/WhiteZony.png?size=200)](https://github.com/WhiteZony) | [![DarkWinzo](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) |
+
+|----|----|----|----|
+
+| [DarkWinzo](https://github.com/DarkWinzo) | [Alien-Alfa](https://github.com/Alien-Alfa) | [WhiteZony](https://github.com/WhiteZony) | [NO NAME](https://github.com) |
+
+|  𝗠𝗔𝗜𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗕𝗜𝗚 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 | 𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥 | 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗘𝗥 |
+
+  
+
+  </div>
+
+### Special Thanks To : 
+
+ 
+
+- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+
+- [`DikaArdnt`](https://github.com/DikaArdnt)
+
+ 
+
+## License
+
